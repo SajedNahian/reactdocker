@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Auto refresh</p>
+        <p>Testing CI with Travis CI</p>
         <a
           className="App-link"
           href="https://reactjs.org"
